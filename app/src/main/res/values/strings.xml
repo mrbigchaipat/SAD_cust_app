@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcomeMessage">Welcome! Already have an account?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="scanQR">Scan QR Code</string>
+    <string name="purchase">Purchase</string>
+    <string name="title_activity_confirm_order">ConfirmOrder</string>
+    <string name="confirm_order_message">Are you sure to purchase this order?</string>
+    <string name="confirm_order_title">Confirm your transaction</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+</resources>
